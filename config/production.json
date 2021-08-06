@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "kolin secter",
+  "mongoUrl": "mongodb+srv://kolin:qwertyqq@cluster0.hskmi.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
