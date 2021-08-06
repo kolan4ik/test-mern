@@ -1,0 +1,20 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.card .card-content .card-title{
+    margin: 0 0 2rem;
+}
+
+.brand-logo img{
+    float: left;
+    animation: App-logo-spin infinite 10s linear;
+}
